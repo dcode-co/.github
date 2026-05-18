@@ -5,8 +5,8 @@
 **개발자가 처음 다섯 줄 안에 통합을 끝낼 수 있는 인프라를 만듭니다.**
 
 [디코드(Dcode)](https://dcode-labs.com) 가 운영하는 오픈소스 조직입니다.
-대표 제품은 ID 인프라 [**logi (1pass.dev)**](https://1pass.dev) — 한국 개발자/소규모 팀이
-별도 KYC 없이 5분 안에 "Sign in with logi" 를 붙일 수 있는 OAuth 2.0 + OIDC IdP.
+대표 제품은 ID 인프라 [**logi (1pass.dev)**](https://1pass.dev) 
+— 한국 개발자/소규모 팀이 별도 KYC 없이 5분 안에 "Sign in with logi" 를 붙일 수 있는 OAuth 2.0 + OIDC IdP.
 
 </div>
 
