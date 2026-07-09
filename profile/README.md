@@ -20,11 +20,14 @@ OAuth 2.0 + OIDC + PKCE. 모바일 우선 (앱-투-앱 핸드오프), 인앱 브
 
 | SDK | Repo | Install |
 |---|---|---|
-| **iOS / macOS** (Swift) | [`logi-auth-swift`](https://github.com/dcode-co/logi-auth-swift) | `.package(url: "https://github.com/dcode-co/logi-auth-swift", from: "0.2.0")` |
-| **Android** (Kotlin) | [`logi-auth-android`](https://github.com/dcode-co/logi-auth-android) | `implementation("com.github.dcode-co:logi-auth-android:0.2.0")` |
+| **iOS / macOS** (Swift) | [`logi-auth-swift`](https://github.com/dcode-co/logi-auth-swift) | `.package(url: "https://github.com/dcode-co/logi-auth-swift", from: "1.1.0")` |
+| **Android** (Kotlin) | [`logi-auth-android`](https://github.com/dcode-co/logi-auth-android) | `implementation("com.github.dcode-co:logi-auth-android:1.0.1")` |
+| **Flutter** (Dart) | [`logi-auth-flutter`](https://github.com/dcode-co/logi-auth-flutter) | `flutter pub add logi_auth` |
 | **Browser** (TypeScript) | [`logi-auth-browser`](https://github.com/dcode-co/logi-auth-browser) | `npm install @logi-auth/browser` |
-| Flutter | _(Q3 2026)_ | — |
-| React Native | _(Q3 2026)_ | — |
+| **Node** (server-side) | [`logi-auth-node`](https://github.com/dcode-co/logi-auth-node) | `npm install @logi-auth/server` |
+| **Ruby** (server-side) | [`logi-auth-ruby`](https://github.com/dcode-co/logi-auth-ruby) | `gem install logi_auth` |
+| Python | [`logi-auth-python`](https://github.com/dcode-co/logi-auth-python) | _(레포 공개, PyPI 배포 예정)_ |
+| React Native | _(예정)_ | — |
 
 📖 **개발자 문서**: [docs.1pass.dev](https://docs.1pass.dev)
 🧪 **라이브 데모**: [demo.1pass.dev](https://demo.1pass.dev)
